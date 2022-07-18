@@ -8,5 +8,5 @@
 <li>Confira abaixo um gif com os efeitos</li>
 </ul>
 
-## <br>👍✌️
+## 👍✌️
 <gif>![](./botao-animado.gif)</gif>
